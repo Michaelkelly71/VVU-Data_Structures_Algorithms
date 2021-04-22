@@ -2,15 +2,14 @@
 
 
 ## Classes
-- **DynamicArrayList.java** : This class holds the methods for implementations 
-- **DynamicArrayTest.java** : Holds the main method
-
+- **BinarySearchTree.java.java** : This class holds the methods for implementations 
+- **TreeNode** : For tree implementation
 
 # Main Method
 ### public static void main() : This method runs the code and has the control on start
 
 ## Constructor 
-    with no arguments
+    with an argument(data)
 
 
 ## How to run Code

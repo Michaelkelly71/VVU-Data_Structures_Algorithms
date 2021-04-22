@@ -6,8 +6,8 @@ Algorithms has code for:
 - [x] Doubly linked 
 - [x] Stacks
 - [x] Queues
-- [ ] Dynamic Lists
-- [ ] Trees
+- [x] Dynamic Lists
+- [x] Trees
 
 
 More to come soon 
